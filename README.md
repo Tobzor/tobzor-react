@@ -9,7 +9,7 @@ Hosted using firebase. Link to be added.
 - [ ] Buy domain
   - [ ] Add custom domain to firebase hosting
 - [ ] Create Header Component
-  - [] Add toggle for _darkmode_
+  - [ ] Add toggle for _darkmode_
 - [x] Add Home
   - [ ] Add Header
   - [ ] Create List Component
