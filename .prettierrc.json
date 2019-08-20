@@ -1,0 +1,9 @@
+{
+    "tabWidth": 4,
+    "useTabs": false,
+    "printWidth": 125,
+    "semi": true,
+    "newline-before-return": true,
+    "no-duplicate-variable": [true, "check-parameters"],
+    "no-var-keyword": true
+}
