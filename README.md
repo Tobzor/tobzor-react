@@ -6,6 +6,8 @@ Hosted using firebase. Link to be added.
 
 - [x] Add firebase
 - [x] Add React Router
+- [x] Add storybook
+  - [ ] ...use storybook
 - [ ] Buy domain
   - [ ] Add custom domain to firebase hosting
 - [ ] Create Header Component
