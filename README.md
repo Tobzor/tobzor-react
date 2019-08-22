@@ -18,3 +18,8 @@ Hosted using firebase. Link to be added.
   - [ ] Add projects
 - [x] Add About
   - [ ] Add Header
+
+#### Giving credit where credit is due
+
+- darkmode hook _borrowed_ from https://usehooks.com/useDarkMode/
+
