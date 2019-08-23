@@ -1,5 +1,7 @@
 .header {
     min-width: max-content;
+    width: 25%;
+    max-width: 100%;
 
     display: flex;
     flex-direction: row;
@@ -9,6 +11,5 @@
 }
 
 .img {
-    user-select: none;
     height: 12vh;
 }

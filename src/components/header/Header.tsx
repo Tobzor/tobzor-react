@@ -8,7 +8,7 @@ import me from "../../assets/img/pixelart-torbjørn.jpg";
 const Header: React.FC = () => {
     return (
         <header className={styles.header}>
-            <img className={styles.img} src={me} alt="me" />
+            <img className={styles.img} src={me} alt="me" draggable={false} />
             <DarkModeToggle />
         </header>
     );
