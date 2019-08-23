@@ -1,10 +1,10 @@
 // Dependencies
-import React, { ReactNode } from "react";
+import React from "react";
 // Locals
 import styles from "./Wrapper.module.css";
 
 type PageWrapper = {
-    children: ReactNode;
+    children: any;
 };
 
 const PageWrapper: React.FC<PageWrapper> = ({ children }) => {
