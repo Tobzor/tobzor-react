@@ -11,7 +11,7 @@ Hosted using firebase. Link to be added.
   - [ ] Create header component
 - [ ] Buy domain
   - [ ] Add custom domain to firebase hosting
-- [] Create Header Component
+- [ ] Create Header Component
   - [ ] Add toggle for _darkmode_
   - [ ] Add some more good styling
 - [x] Add Home
