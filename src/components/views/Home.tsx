@@ -1,4 +1,6 @@
+// Dependencies
 import React from "react";
+// Locals
 import PageWrapper from "../wrappers/PageWrapper";
 import Header from "../header/Header";
 
