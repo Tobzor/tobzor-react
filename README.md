@@ -9,10 +9,11 @@ Hosted using firebase. Link to be added.
 - [x] Add storybook
   - [x] Created toggle component
   - [ ] Create header component
-- [ ] Buy domain
-  - [ ] Add custom domain to firebase hosting
+- [x] Convert projects to markdown.
+  - [ ] Extend each project file with __more__
+- [ ] Add custom domain to firebase hosting
 - [ ] Create Header Component
-  - [ ] Add toggle for _darkmode_
+  - [x] Add toggle for _darkmode_
   - [ ] Add some more good styling
 - [x] Add Home
   - [ ] Add Header
