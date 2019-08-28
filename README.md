@@ -25,4 +25,3 @@ Hosted using firebase. Link to be added.
 #### Giving credit where credit is due
 
 - darkmode hook _borrowed_ from [useHooks](https://usehooks.com/useDarkMode/)
-
