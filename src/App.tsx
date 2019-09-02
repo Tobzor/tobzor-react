@@ -1,6 +1,6 @@
 // Dependencies
 import React from "react";
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 // Locals
 import Home from "./components/views/Home";
 import About from "./components/views/About";
@@ -8,8 +8,10 @@ import About from "./components/views/About";
 const App: React.FC = () => {
     return (
         <Router>
-            <Route path="/about" component={About} />
-            <Route exact path="/" component={Home} />
+            <Switch>
+                <Route path="/about" component={About} />
+                <Route path="/" component={Home} />
+            </Switch>
         </Router>
     );
 };
