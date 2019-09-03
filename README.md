@@ -16,12 +16,14 @@ Hosted using firebase. Link to be added.
   - [x] Add toggle for _darkmode_
   - [ ] Add some more good styling
 - [x] Add Home
-  - [ ] Add Header
-  - [ ] Create List Component
-  - [ ] Add projects
+  - [x] Add Header
+  - [x] Create List Component
+  - [x] Add projects
 - [x] Add About
   - [ ] Add Header
-- [ ] Somethingsomething GraphQL?
+- [ ] Extend rendering of elements from markdown.
+  - [ ] Add some github looking styles to rendered markdown (also _darkmode_)
+  - [ ] Add styling for mobile/tablets/defaults
 
 #### Giving credit where credit is due
 
